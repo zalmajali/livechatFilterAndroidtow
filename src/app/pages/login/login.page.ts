@@ -42,7 +42,6 @@ public userNameVal: any;
 // public errorMainUserName:any="";
 // public isErrorMainUserName:any = 1;
 // public main_user_name_error:any;
-
 //UserName
 public userName: any;
 public user_name: any;
